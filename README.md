@@ -142,7 +142,5 @@ _“Keep learning, keep creating, and stay curious — that’s how I grow every
 ---
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=azariacindy&icon=0&color=3" alt="Profile Views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=azariacindy&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Profile Views"/>
 </p>
